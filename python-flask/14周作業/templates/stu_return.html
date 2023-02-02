@@ -1,0 +1,29 @@
+<html>
+<body>
+{% set S = sex |int %}
+{% set N = n | string %}
+
+姓名<font color=red>{{ N }}</font>
+<br/>
+性別
+{% if S == 1 %}
+<font color = red>男</font>
+<br/>
+
+{% elif S == 0 %}
+<font color = red>女</font>
+<br/>
+{% endif %}
+
+專長<font color = red>{{ expert }}</font>
+<br/>
+
+
+
+<ul>
+{% for x in intr %}
+<li><font color = red>{{ x }}</font></li>
+{% endfor %}
+</ul>
+</body>
+</html>

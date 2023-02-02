@@ -1,0 +1,47 @@
+<html lang="zh-Hant-TW" xmlns:og="https://ogp.me/ns#"><head prefix="og: https://ogp.me/ns#">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Expires" content="Mon 02 Jan 2023 12:37:57 GMT">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=1">
+<link rel="author" href="https://www.efroip.com"><link rel="publisher" href="https://www.efroip.com"><meta name="description" content="國立虎尾高級中學"><meta itemprop="name" content="國立虎尾高級中學"><meta itemprop="description" content="國立虎尾高級中學"><meta property="og:site_name" content="國立虎尾高級中學"><meta property="og:title" content="國立虎尾高級中學"><meta property="og:description" content="國立虎尾高級中學"><meta property="og:url" content="https://www.hwsh.ylc.edu.tw/home"><meta property="og:type" content="website"><meta name="KeyWords" content="國立虎尾高級中學"><meta name="generator" content="數位果子iSchool"><link href="https://www.hwsh.ylc.edu.tw/home/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_7_2903cca70394100775c93e7e3a834be4a983cf91/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_13_8200c947023dcd4eeef3151ca31385a991c676ed/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_21_b27ff589faa675cc8335846eabe4e1612c81dcca/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_12_992cf448f5e05296cd5fe97491ea845dfc8e5b43/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_6_1f0dbff128a1adf0032e04338927e4eeba3d00ea/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_15_aa93a5d0ab89eef3a04107abb4636daa3739ffcd/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_25_bbb68766f98aed90f8344116ca8a87483214fdf6/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_2_a482adeb7e9d92e28f5fb73051f08687b7c0819e/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_9_19d490f90a8ebae31386e0ac496232392ae7819f/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_20_1da350ca9d949f0849e6400a8368bbafe900cf8f/global_layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">     
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_4_3acf257a3abf912c21dfdc36e52125867d3a54a4/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_22_4930ca72665eb258b9f6691e38e30d409c800264/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_4_b20dfde8e9de6648de6ee12a8d22611d0d769139/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_1_176ca54938948d221345224eaa151c790ed7ae8d/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_1_a8af9af3db4889560ffc74c571b54367ee10012a/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_1_015f9c17bdd1de5866c08455aa6562b43073c6c8/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_1_ea9c71fc8b55f9fdde1930b324ef1e94862fc4bc/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_1_270b50b3ecce98f5ac7d58faa6d84d0d40824d29/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_24_b97688024ca6b51e9854d1c813f5f96bb6b4d32d/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/home/WID_0_9_9ebab365a6cce141780a4cef74917f2a63ea2397/layout.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/latest/css/jquery-ui.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<link href="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/context-menu/jquery.contextMenu.css?Thu 29 Dec 2022 20:37:57" type="text/css" rel="stylesheet">
+<script src="https://connect.facebook.net/signals/config/483391473455634?v=2.9.90&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/21149d65/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MTPPPQG"></script><script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/latest/js/jquery.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/latest/js/jquery-ui.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/jquery.bpopup.min.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/jquery.resize.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/utils/playclip.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/jquery.carousel.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/jquery.steps.min.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/utils/storage.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/widget/resource_integration/js/resource_view.min.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/ischool/public/jquery/context-menu/jquery.contextMenu.js?Thu 29 Dec 2022 20:37:57"></script>
+<script type="text/javascript" src="https://www.hwsh.ylc.edu.tw/home/main.js?Thu 29 Dec 2022 20:37:57"></script>
+<title>國立虎尾高級中學</title><script type="text/javascript">var g_rwd=1;var g_bid=0;var g_ac_type=0;var g_web_accessibility=0;var g_rwd_device_width=767;var g_disable_mainmenu_auto_scroll=false;var g_disable_right_menu=false;var g_default_active_class_id=parseInt('0');var g_root_path='https://www.hwsh.ylc.edu.tw/ischool/';var g_debug='';var g_home_class_id=parseInt('');var g_api_url='https://www.hwsh.ylc.edu.tw/api/';var g_person_id='-1';var g_person_name='';var g_person_level='-1';function load_data(){var cc=parseInt('0');var uid='';var pid=parseInt('-1');if(cc=='1'){window.location='?cid='+pid;return;}}</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTPPPQG');</script>
+<!-- End Google Tag Manager --><style type="text/css">@keyframes resizeanim { from { opacity: 0; } to { opacity: 0; } } .resize-triggers { animation: 1ms resizeanim; visibility: hidden; opacity: 0; } .resize-triggers, .resize-triggers > div, .contract-trigger:before { content: " "; display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; } .resize-triggers > div { background: #eee; overflow: auto; } .contract-trigger:before { width: 200%; height: 200%; }</style><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8l

@@ -1,0 +1,6 @@
+print("Hello World!")
+print(123)
+print(1.41421)
+print(3.1414159, 2.71828)
+print(4, 5, 6, sep='-', end='\n\n')
+print("Hello\nPython")
