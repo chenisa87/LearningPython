@@ -1,0 +1,11 @@
+cars = ['Honda','Toyota','Ford','BMW']     
+print("彈出之前:", cars)
+print("彈出之前長度 = ", len(cars))
+popped_car = cars.pop( )          
+print("彈出之後:", cars)
+print("彈出之後長度 = ", len(cars))
+print("彈出元素: ", popped_car)
+popped_car = cars.pop(1)          
+print("彈出之後:", cars)
+print("彈出之後長度 = ", len(cars))
+print("彈出元素: ", popped_car)    
